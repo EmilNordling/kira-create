@@ -1,0 +1,20 @@
+folder CWD/@root@
+
+create .gitignore @{
+  node_modules
+}@
+
+create package.json @{
+  {
+
+  }
+}@
+
+create readme.md @{
+  # @name@
+  xD
+}@
+
+create tsconfig.json @{
+
+}@
